@@ -8,6 +8,7 @@ class BancassurancePaymentsServiceApplicationTests {
 
 	@Test
 	void contextLoads() {
+		// This test will simply check if the Spring application context loads successfully.
 	}
 
 }
